@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-image: url(./imagen/fondo.jpg);
+ }
+
+  h1 {
+    color: rgb(197, 111, 5);
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: xx-large;
+  }
+  
+  p {
+    color: rgb(155, 133, 106);
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    margin: 50px 200px 0px 50px;
+    width: 550px;
+  }
